@@ -4,16 +4,16 @@
 
 ### 🎯 Quick Navigation
 
-- [[#🎯 Course Overview]] - Core competencies and exam focus
-- [[#📚 Key Frameworks & Models]] - BSIMM, STRIDE, DREAD, PASTA
-- [[#🔍 Security Testing]] - Testing types and methodologies
-- [[#⚙️ SDL Integration]] - Agile security and requirement types
-- [[#🔐 Core Security Principles]] - Access control and data protection
-- [[#🚨 Common Vulnerabilities]] - Attack types and countermeasures
-- [[#📋 Exam Question Types]] - What to expect on the exam
-- [[#⚠️ Critical Exam Tips]] - Things to watch out for
-- [[#📅 3-Day Study Timeline]] - Your preparation schedule
-- [[#📖 Essential Terminology]] - Key terms and definitions
+- [🎯 Course Overview](#-course-overview) - Core competencies and exam focus
+- [📚 Key Frameworks & Models](#-key-frameworks--models) - BSIMM, STRIDE, DREAD, PASTA
+- [🔍 Security Testing](#-security-testing) - Testing types and methodologies
+- [⚙️ SDL Integration](#️-sdl-integration) - Agile security and requirement types
+- [🔐 Core Security Principles](#-core-security-principles) - Access control and data protection
+- [🚨 Common Vulnerabilities](#-common-vulnerabilities) - Attack types and countermeasures
+- [📋 Exam Question Types](#-exam-question-types) - What to expect on the exam
+- [⚠️ Critical Exam Tips](#️-critical-exam-tips) - Things to watch out for
+- [📅 3-Day Study Timeline](#-3-day-study-timeline) - Your preparation schedule
+- [📖 Essential Terminology](#-essential-terminology) - Key terms and definitions
 
 ---
 
