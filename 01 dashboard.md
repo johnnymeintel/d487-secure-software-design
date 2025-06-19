@@ -26,7 +26,7 @@
 - **4029.2.3**: Security test plan documentation and implementation strategies
 - **4029.2.4**: Software testing and deployment effectiveness for security/privacy
 
-### Exam Distribution (60 questions)
+### Exam Distribution (66 questions)
 
 - 🎭 **Threat Modeling & Risk Assessment** (35% - ~21 questions)
 - 🔄 **SDL Integration & Security Gates** (25% - ~15 questions)
