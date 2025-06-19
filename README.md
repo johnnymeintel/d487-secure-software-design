@@ -9,7 +9,6 @@ Complete study materials for WGU's D487 - Governance, Risk, and Compliance cours
 - **SDL Framework Overview** - Complete A1-A5 phase breakdown with deliverables
 - **Key Success Factors** - Critical metrics for each SDL phase
 - **Competency Mapping** - Course objectives aligned to SDL phases
-- **Practice Questions** - 30+ unique exam-style questions with answers
 - **Overlap Analysis** - High-risk confusion areas and terminology distinctions
 
 ## 🎯 Quick Study Guide
