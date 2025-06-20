@@ -2,7 +2,7 @@
 
 **Status: ✅ PASSED**
 
-Complete study materials for WGU's D487 - Governance, Risk, and Compliance course covering Security Development Lifecycle (SDL) implementation.
+Complete study materials for WGU's D487 - Secure Software Design course covering Security Development Lifecycle (SDL) implementation.
 
 ## 📚 What's Included
 
